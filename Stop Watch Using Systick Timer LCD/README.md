@@ -1,6 +1,8 @@
 # SysTick Stopwatch with LCD Display
 
 A simple Stopwatch project using the SysTick timer and displaying the time on an LCD.
+[Stop Watch](https://github.com/MuhammedAlshafie11/Tiva-C-Projects/blob/main/Stop%20Watch%20Using%20Systick%20Timer%20LCD/Videos/Screenshot%202023-08-27%20145935.png))
+
 ## Table of Contents
 
 - [About](#about)
