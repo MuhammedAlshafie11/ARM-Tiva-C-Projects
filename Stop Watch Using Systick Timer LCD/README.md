@@ -1,7 +1,6 @@
 # SysTick Stopwatch with LCD Display
 
 A simple Stopwatch project using the SysTick timer and displaying the time on an LCD.
-![Stop Watch ]
 ## Table of Contents
 
 - [About](#about)
