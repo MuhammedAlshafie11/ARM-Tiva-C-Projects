@@ -1,6 +1,6 @@
 # Complex Calculator Project
 
-![Calculator](https://github.com/MuhammedAlshafie11/Tiva-C-Projects/blob/main/Complex%20Calculator/Pics%20and%20Video/Cal1.jpg))
+![Calculator](https://github.com/MuhammedAlshafie11/Tiva-C-Projects/blob/main/Complex%20Calculator/Pics%20and%20Video/Cal1.jpg)
 
 
 ## Table of Contents
