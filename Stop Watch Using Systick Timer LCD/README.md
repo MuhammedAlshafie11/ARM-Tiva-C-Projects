@@ -18,7 +18,7 @@ This project implements a Stopwatch using the SysTick timer on a Tiva C microcon
 
 ## Demo
 
-[![Watch the demo video](link-to-demo-thumbnail-image)](link-to-demo-video)
+[![Watch the demo video](link-to-demo-thumbnail-image)](Stop Watch Using Systick Timer LCD/Videos/Project 1 .mp4)
 
 (Link the above placeholders to actual demo video and thumbnail image hosted on a platform like YouTube or Vimeo.)
 
