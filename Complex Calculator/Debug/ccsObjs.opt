@@ -1,0 +1,8 @@
+"./LCD_Driver.obj"
+"./Tiva_DIO.obj"
+"./calculator.obj"
+"./keyPad_Driver.obj"
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a

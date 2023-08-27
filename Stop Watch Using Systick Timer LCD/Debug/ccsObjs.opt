@@ -1,0 +1,10 @@
+"./DIO.obj"
+"./DIO_Lcfg.obj"
+"./Keypad.obj"
+"./LCD.obj"
+"./Systick Init.obj"
+"./delay.obj"
+"./main.obj"
+"./tm4c1231h6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
