@@ -12,3 +12,4 @@ https://github.com/MuhammedAlshafie11/Tiva-C-Projects/tree/main/Stop%20Watch%20U
 https://github.com/MuhammedAlshafie11/Tiva-C-Projects/tree/main/Systick%20Timer%20Projects
 
 # GPTM Input Edge Time 
+https://github.com/MuhammedAlshafie11/ARM-Tiva-C-Projects/tree/main/GPTM/GPT_Edge_Time
